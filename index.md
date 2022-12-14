@@ -1,6 +1,6 @@
 # Hello World
 
-This is my hoe page! My name is Jayson Diaz and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is electrical engineering.
+This is my home page! My name is Jayson Diaz and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is electrical engineering.
 
 ## Computer Science Projects
 
