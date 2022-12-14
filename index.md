@@ -18,4 +18,4 @@ My GitHub page is http://github.com/jddiaz112
 
 * Lab 10
 
-    Lab 10, part 3 was a favorite because I enjoyed making a gradient. It was interesting to see how Magick worked because it was the main function used to make the gradient. I also enjoyed working with the RGB color scheme. 
+    Lab 10, part 3 was a favorite because I enjoyed making a gradient. It was interesting to see how Magick works because it was the main function used to make the gradient. I also enjoyed working with the RGB color scheme. 
